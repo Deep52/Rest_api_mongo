@@ -1,0 +1,8 @@
+I have the AWS api using MongoDB
+
+which use postman,express, mongoDB,nodejs for backend
+
+main file is Index.js
+
+routes,model file have in difrent folder
+and detail of the mongoDB connection have in .evn file  
